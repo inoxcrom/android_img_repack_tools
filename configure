@@ -45,7 +45,7 @@ get_src https://android.googlesource.com/platform/external/zlib
 	cd ../external
 get_src https://github.com/CyanogenMod/android_system_core.git
 	cd android_system_core
-	checkout_external
+	checkout cm-12.0
 	cd ..
 get_src https://github.com/Chainfire/sgs4ext4fs
 	cd ..
